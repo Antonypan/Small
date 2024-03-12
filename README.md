@@ -1,4 +1,5 @@
 # Small
 ![Uploading image.png…]()
-C:\Users\User\OneDrive\桌面\螢幕擷取畫面 2024-03-12 150955.png
-C:\Users\User\OneDrive\桌面\螢幕擷取畫面 2024-03-12 150602.png
+![image](https://github.com/Antonypan/Small/assets/162288276/278a1514-438c-41e2-9985-328c4e25794e)
+![image](https://github.com/Antonypan/Small/assets/162288276/3a717a61-d632-4333-907d-f265b7f2329f)
+
